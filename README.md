@@ -33,4 +33,4 @@ Ainsi, le serpent est **rapide** au dÃ©but et **immortel** en fin de partie. ğŸ
 
 ### Lancer le jeu
 ```bash
-
+python main.py
