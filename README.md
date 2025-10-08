@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snake AI avec Tkinter (BFS + Cycle Hamiltonien)
 
 Ce projet est une version améliorée du jeu Snake en Python utilisant **Tkinter** et une **IA hybride** :
@@ -34,3 +35,6 @@ Ainsi, le serpent est **rapide** au début et **immortel** en fin de partie. �
 ### Lancer le jeu
 ```bash
 python main.py
+=======
+# Snake Game
+>>>>>>> 2e3bd2aa3936e6f16675e9991cc25d7ffbdc1430
